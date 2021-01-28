@@ -9,7 +9,7 @@
 .content{
 	width:100vw;
 	height:100vh;
-	background-color: rgb(240,255,255	)
+	background-color: #79FF99
 }
 .menu .title .imgStyle {
      width: 50px;
@@ -58,4 +58,10 @@
  .menu .link .instagram {
      background: url('../image/instagram.png') no-repeat;
      background-size: 20px auto;
+ }
+
+.content .banner {
+     width: 100%;/*設定寬度為100%*/
+     height: 300px;/*設定高度為300px*/
+     background-color: rgb(44, 154, 218);
  }
